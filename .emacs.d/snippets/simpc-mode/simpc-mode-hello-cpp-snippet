@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: cpp-hello-world
+# key: cpp
+# --
+
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    cout << "Hello world!" << endl;
+    $0
+    return 0;
+}

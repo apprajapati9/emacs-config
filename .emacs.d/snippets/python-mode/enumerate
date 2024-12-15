@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: python-enumerate
+# key: enumerate
+# --
+
+for i, n in enumerate($1):
+    $0

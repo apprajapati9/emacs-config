@@ -1,0 +1,23 @@
+# -*- mode: snippet -*-
+# name: python-print
+# key: pformat
+# --
+
+print("$1{}".format($2))
+$0
+
+# -*- mode: snippet -*-
+# name: python-print
+# key: for
+# --
+
+for i in $1:
+    $0
+
+# -*- mode: snippet -*-
+# name: python-print
+# key: enumerate
+# --
+
+for i, n in enumerate($1):
+    $0

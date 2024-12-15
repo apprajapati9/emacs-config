@@ -1,0 +1,36 @@
+git clone git@github.com:apprajapati9/PySolutions.git
+eval "$(ssh-agent -s)"
+eval $(ssh-agent)
+eval $(ssh-agent -s)
+ssh-add
+quit
+exit
+clear
+clear
+ls
+cls
+ls
+dir
+ls
+git clone git@github.com:apprajapati9/PySolutions.git
+exit
+ls
+git status
+git brach
+git branch 
+git push origin master -f
+ls
+git status
+git status
+clear
+clear
+ls
+ls
+git
+git status
+git add .
+git status
+git commit -m "merge sort impl in python"
+ckear
+clear
+git branch 

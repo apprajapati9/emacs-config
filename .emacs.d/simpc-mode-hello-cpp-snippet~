@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name:cpp-empty
+# key: cpp
+# --
+
+#+BEGIN_SRC
+#include <iostream>
+
+using namespace std;
+
+int main(){
+    $0
+    return 0;
+}
+#+END_SRC
