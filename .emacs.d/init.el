@@ -16,7 +16,7 @@
    '(org-bbdb org-bibtex org-docview org-gnus org-habit org-info org-irc org-mhe org-rmail org-w3m))
  '(org-refile-use-outline-path 'file)
  '(package-selected-packages
-   '(move-text gruber-darker-theme dash-functional dash format-all clang-format yasnippet projectile hydra flycheck company avy which-key))
+   '(multiple-cursors move-text gruber-darker-theme dash-functional dash format-all clang-format yasnippet projectile hydra flycheck company avy which-key))
  '(safe-local-variable-values
    '((eval progn
 	   (auto-revert-mode 1)

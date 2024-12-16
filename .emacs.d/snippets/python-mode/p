@@ -1,0 +1,7 @@
+# mode: snippet
+# name: python-print
+# key: p
+# --
+
+print("$1")
+$0

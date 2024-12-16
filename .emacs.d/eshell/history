@@ -34,3 +34,46 @@ git commit -m "merge sort impl in python"
 ckear
 clear
 git branch 
+ls
+git status
+git add .
+git status
+ls
+cd ..
+ls
+cd ..
+ls
+cd PySolutions/
+ls
+clear 
+ls
+ls -a
+ls
+git status
+ls
+git status
+git add .
+exit
+ls
+git status
+cd ..
+ls
+exit
+ls
+git status
+git status
+git add .
+clear
+git status
+(use "git restore <file>..." to discard changes in working directory)
+clear
+git status
+git commit -m "python basics examples added"
+clear
+exit
+ls
+ls
+ls
+ls -a
+git status
+exit

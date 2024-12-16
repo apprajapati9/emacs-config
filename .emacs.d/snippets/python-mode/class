@@ -1,0 +1,8 @@
+# mode: snippet
+# name: python-class-with-init
+# key: class
+# --
+
+class ${1:name}:
+      def __init__(self${2:args}):
+      	  $0

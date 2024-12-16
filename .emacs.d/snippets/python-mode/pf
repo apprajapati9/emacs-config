@@ -1,9 +1,7 @@
 # -*- mode: snippet -*-
-# name: python-print
+# name: python-print-format
 # key: pformat
 # --
 
 print("$1{}".format($2))
 $0
-
-

@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: pythonzip
+# key: fzip
+# --
+
+for ${1:items} in zip(${2:args}):
+    print(${3:items})
+    $0
+
+

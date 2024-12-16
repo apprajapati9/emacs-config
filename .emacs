@@ -169,5 +169,45 @@
 (require 'yasnippet)
 (yas-global-mode 1)
 
+;;enable dired dwim for history of moving files
+(setq dired-dwim-target t)
 
+;; ----- multiple cursors settings
+(require 'multiple-cursors)
+
+;; do what I means
+(global-set-key (kbd "C-S-m") 'mc/mark-all-dwim)
+
+;; both marked and unmarked region. multiple presses.
+;; C-g to unmark region and keep the cursors at the start of a position
+;; RET to disable multiple cursors
+
+;;edit lines
+;;(global-set-key (kbd "C-S-e") 'mc/edit-lines) ;; for continous lines, mark lines and then create cursors
+
+;; NOT defining key for below because we can enable multiple cursors, and then Cg and then Ce to jump to the end of lines.
+(global-set-key (kbd "C-S-e") 'mc/edit-ends-of-lines)  ;; end of lines, have to select lines.
+
+;;expand region, type once and then use l(expand), - (reduce), 0 (go away)
+;; (global-set-key (kbd "C-S-r") 'er/expand-region)  ;; Enable if needed.
+
+;; select region first, then create cursors
+
+;;skip this match and move to the next one
+(global-set-key (kbd "C-<") 'mc/skip-to-previous-like-this)
+(global-set-key (kbd "C->") 'mc/skip-to-next-like-this)
+
+;;kill all buffers
+;; you can do it using Mx kill-some-buffers and go one by one, below is a single key to kill all except current buffer
+
+(defun kill-other-buffers ()
+  "Kill all buffers except the current one."
+  (interactive)
+  (let ((current-buffer (current-buffer)))
+    (dolist (buffer (buffer-list))
+      (unless (eq buffer current-buffer)
+        (kill-buffer buffer)))))
+
+
+(global-set-key (kbd "C-c k") 'kill-other-buffers)
 

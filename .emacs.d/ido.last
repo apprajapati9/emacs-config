@@ -13,13 +13,16 @@
  ("d:/git_projects/algorithms/CPlusPlus/" . "C++/")
  ("d:/git_projects/algorithms/" . "CPlusPlus/")
  ("d:/git_projects/" . "algorithms/")
- ("d:/" . "git_projects/")
+ ("d:/" . "emacs_settings/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/"
+ "d:/git_projects/algorithms/python/PySolutions/"
+ "d:/emacs_settings/"
+ "d:/emacs_settings/.emacs.d/snippets/python-mode/"
  "d:/git_projects/algorithms/python/PySolutions/python-language-basics/"
+ "d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/"
  "c:/Users/appra/AppData/Roaming/.emacs.d/snippets/python-mode/"
  "d:/git_projects/algorithms/CPlusPlus/"
  "c:/Users/appra/AppData/Roaming/"
@@ -59,15 +62,23 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/" (26462 11632 0 0) "o.exe" "new.cpp" "msort-solution.cpp~" "msort-solution.cpp" "merge-sort.cpp~" "merge-sort.cpp" "m.exe" "#merge-sort.cpp#" "../" "./")
+ ("d:/emacs_settings/" (26463 8204 0 0) ".git/" ".emacs.d/" ".emacs" "../" "./")
 
- ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/" (26462 10347 0 0) "regex/" "python-basics.py~" "python-basics.py" "hello.bat" "GuessNumberGame.py" ".#python-basics.py" "../" "./")
+ ("d:/git_projects/algorithms/python/" (26431 25859 0 0) "PySolutions/" "../" "./")
+
+ ("d:/git_projects/algorithms/python/PySolutions/" (26453 16413 0 0) "sorting/" "python-language-basics/" "python-dsa/" ".gitignore" ".git/" "../" "./")
+
+ ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/" (26463 918 0 0) "regex/" "python-basics.py~" "python-basics.py" "hello.bat" "GuessNumberGame.py" "../" "./")
+
+ ("c:/Users/appra/AppData/Roaming/" (26462 11349 0 0) "WTablet/" "WPersistent/" "WinRAR/" "vlc/" "Visual Studio Setup/" "Sun/" "Postman/" "pensela/" "obs-virtualcam.txt" "obs-studio/" "NVIDIA/" "npm/" "Notepad++/" "Mozilla/" "MiKTeX/" "Microsoft/" "LibreOffice/" "inkscape/" "Google/" "GitHub Desktop/" "GIMP/" "Epic Pen/" "CodeBlocks/" "Code/" "Charles/" "Blackmagic Design/" "Atlassian/" "Adobe/" ".history" ".emacs.d--/" ".emacs.d/" ".emacs--" ".emacs" "../" "./")
+
+ ("d:/emacs_settings/.emacs.d/snippets/python-mode/" (26462 62543 0 0) "zip" "while" "p~" "pf" "p" "from" "for" "enumerate" "def" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/" (26462 11632 0 0) "o.exe" "new.cpp" "msort-solution.cpp~" "msort-solution.cpp" "merge-sort.cpp~" "merge-sort.cpp" "m.exe" "#merge-sort.cpp#" "../" "./")
 
  ("c:/Users/appra/AppData/Roaming/.emacs.d/snippets/python-mode/" (26462 2742 0 0) "while" "python-print~" "pformat" "from" "for~" "for" "enumerate~" "enumerate" "def" "../" "./")
 
  ("d:/git_projects/algorithms/CPlusPlus/" (26462 2492 0 0) "vi_cheat_sheet.pdf" "Notes.txt" "Kotlin/" "emacs-setup-files/" "C++/" "adb-commands.txt" ".vscode/" ".gitignore" ".git/" "../" "./")
-
- ("c:/Users/appra/AppData/Roaming/" (26455 12058 0 0) "WTablet/" "WPersistent/" "WinRAR/" "vlc/" "Visual Studio Setup/" "Sun/" "Postman/" "pensela/" "obs-virtualcam.txt" "obs-studio/" "NVIDIA/" "npm/" "Notepad++/" "Mozilla/" "MiKTeX/" "Microsoft/" "LibreOffice/" "inkscape/" "Google/" "GitHub Desktop/" "GIMP/" "Epic Pen/" "CodeBlocks/" "Code/" "Charles/" "Blackmagic Design/" "Atlassian/" "Adobe/" ".history" ".emacs~" ".emacs.d/" ".emacs" "../" "./")
 
  ("d:/git_projects/algorithms/python/PySolutions/sorting/" (26454 7104 0 0) "merge-sort.py~" "merge-sort.py" "#merge-sort.py#" "../" "./")
 
@@ -78,8 +89,6 @@
  ("c:/Users/appra/AppData/Roaming/.emacs.d/snippets/" (26454 8400 0 0) "simpc-mode/" "../" "./")
 
  ("d:/git_projects/" (26448 31268 0 0) "bezier-curve/" "android_projects/" "algorithms/" "../" "./")
-
- ("d:/git_projects/algorithms/python/PySolutions/" (26431 44638 0 0) "python-language-basics/" "python-dsa/" ".gitignore" ".git/" "../" "./")
 
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reorder-linked-list/" (26445 5078 0 0) "reorder-linked-list.cpp~" "reorder-linked-list.cpp" "r.exe" "#reorder-linked-list.cpp#" "../" "./")
 
@@ -100,8 +109,6 @@
  ("d:/git_projects/algorithms/python/PySolutions/python-dsa/fibnonacci/" (26431 25922 0 0) "fib-series.py" "../" "./")
 
  ("d:/git_projects/algorithms/" (26431 24486 0 0) "python/" "CPlusPlus/" "../" "./")
-
- ("d:/git_projects/algorithms/python/" (26431 25610 0 0) "../" "./")
 
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/" (26430 32073 0 0) "test.exe" "simple-c/" "o.exe" "NodeIml.o" "make~" "make" "headers/" "AddTwoNumbers.o" "AddTwoNumbers.cpp" "a.out" "../" "./")
 

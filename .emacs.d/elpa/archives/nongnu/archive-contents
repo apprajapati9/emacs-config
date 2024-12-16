@@ -555,6 +555,17 @@
 			   (:authors
 			    ("Filippo Argiolas" . "filippo.argiolas@gmail.com"))
 			   (:commit . "2c83a3230d4ee9336b0311dbaa6fa77c2d2538c6"))])
+ (eldoc-diffstat .
+		 [(1 0)
+		  ((emacs
+		    (29 1)))
+		  "Make VCS diffstat available via eldoc" tar
+		  ((:url . "https://github.com/kljohann/eldoc-diffstat/")
+		   (:keywords "vc" "docs")
+		   (:maintainer "Johann Klähn" . "johann@jklaehn.de")
+		   (:authors
+		    ("Johann Klähn" . "johann@jklaehn.de"))
+		   (:commit . "33aa6d7ee5d0e712b112c74ec6e076463b540e9e"))])
  (elixir-mode .
 	      [(2 5 0)
 	       ((emacs
@@ -1055,7 +1066,7 @@
 	       ("Jonas Bernoulli" . "emacs.git-modes@jonas.bernoulli.dev"))
 	      (:commit . "f99010bbeb8b6d8a0819fac0195a2ef0159d08f0"))])
  (gnosis .
-	 [(0 4 8)
+	 [(0 4 10)
 	  ((emacs
 	    (27 2))
 	   (emacsql
@@ -1070,7 +1081,7 @@
 	   (:maintainer "Thanos Apollo" . "public@thanosapollo.org")
 	   (:authors
 	    ("Thanos Apollo" . "public@thanosapollo.org"))
-	   (:commit . "b30a06fc16c18b6de7d5a21facf2b5fd8d90b613"))])
+	   (:commit . "42b3f00f88bc6dc8c8b207be7548f29a7777b136"))])
  (gnu-apl-mode .
 	       [(1 5 1)
 		nil "Emacs mode for GNU APL" tar
@@ -1441,13 +1452,13 @@
 	       ((:url . "https://elpa.nongnu.org/nongnu/jinja2-mode.html")
 		(:commit . "a598357069a68b0ac2bf128c19edd8e899084cdc"))])
  (julia-mode .
-	     [(1 0 1)
+	     [(1 0 2)
 	      ((emacs
 		(26 1)))
 	      "Major mode for editing Julia source code" tar
 	      ((:url . "https://github.com/JuliaEditorSupport/julia-emacs")
 	       (:keywords "languages")
-	       (:commit . "6283427deefa02e6b87b28efa18a66dcbe50317f"))])
+	       (:commit . "0f4d74f9049df28e2f522733141bfc5b7a0f69a3"))])
  (keycast .
 	  [(1 4 1)
 	   ((emacs
