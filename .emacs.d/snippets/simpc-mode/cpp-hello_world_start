@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: cpp-hello-world
-# key: cpp
+# key: hello
 # --
 
 #include <iostream>

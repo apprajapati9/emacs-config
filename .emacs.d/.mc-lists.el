@@ -6,11 +6,14 @@
 	electric-newline-and-maybe-indent
 	indent-for-tab-command
 	keyboard-escape-quit
+	recompile
 	))
 
 (setq mc/cmds-to-run-once
       '(
+	astyle-buffer
 	duplicate-region-or-line-below
+	ignore
 	kill-region
 	recentf-open-files
 	))

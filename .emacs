@@ -13,10 +13,10 @@
 (show-paren-mode 1)
 
 ;; Auto completion and ido suggestions
+
 (ido-mode 1)
 (ido-everywhere 1)
 (setq ido-enable-flex-matching t)
-
 
 (add-to-list 'load-path "D:/emacs_settings/.emacs.d/")
 
@@ -153,6 +153,13 @@
 
 (global-set-key (kbd "C-S-l") 'astyle-buffer)
 
+(add-hook 'simpc-mode-hook
+	  (lambda ()
+	    (interactive)
+	    (setq-local fill-paragraph-function 'astyle-buffer)))
+
+(require 'compile)
+
 ;; compilation buffer settings
 (setq compilation-scroll-output t)
 (setq compilation-auto-jump-to-first-error t)
@@ -171,6 +178,7 @@
 
 ;;enable dired dwim for history of moving files
 (setq dired-dwim-target t)
+(setq dired-listing-switches "-alh")
 
 ;; ----- multiple cursors settings
 (require 'multiple-cursors)
@@ -197,6 +205,8 @@
 (global-set-key (kbd "C-<") 'mc/skip-to-previous-like-this)
 (global-set-key (kbd "C->") 'mc/skip-to-next-like-this)
 
+(global-set-key (kbd "C-S-n") 'mc/mark-next-like-this)
+
 ;;kill all buffers
 ;; you can do it using Mx kill-some-buffers and go one by one, below is a single key to kill all except current buffer
 
@@ -210,4 +220,13 @@
 
 
 (global-set-key (kbd "C-c k") 'kill-other-buffers)
+
+;;; git bash
+(setq explicit-shell-file-name "C:/Program Files/Git/git-bash.exe")
+(setq shell-file-name "bash")
+(setq explicit-bash.exe-args '("--login" "-i"))
+
+;;expand region
+(require 'expand-region)
+(global-set-key (kbd "<f9>") 'er/expand-region)
 

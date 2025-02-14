@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: cpp-hello-world
+# key: comment
+# --
+
+/*
+$0
+*/

@@ -1,79 +1,128 @@
-git clone git@github.com:apprajapati9/PySolutions.git
-eval "$(ssh-agent -s)"
-eval $(ssh-agent)
-eval $(ssh-agent -s)
-ssh-add
-quit
-exit
-clear
-clear
-ls
-cls
-ls
-dir
-ls
-git clone git@github.com:apprajapati9/PySolutions.git
-exit
-ls
-git status
-git brach
-git branch 
-git push origin master -f
-ls
-git status
 git status
 clear
+git status
+ls
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+ls
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
 clear
-ls
-ls
-git
 git status
-git add .
-git status
-git commit -m "merge sort impl in python"
-ckear
 clear
-git branch 
-ls
-git status
-git add .
-git status
-ls
-cd ..
-ls
-cd ..
-ls
-cd PySolutions/
-ls
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
 clear 
-ls
-ls -a
-ls
-git status
-ls
-git status
-git add .
-exit
-ls
-git status
-cd ..
-ls
-exit
-ls
-git status
-git status
-git add .
 clear
-git status
-(use "git restore <file>..." to discard changes in working directory)
-clear
-git status
-git commit -m "python basics examples added"
-clear
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 
 exit
+python xls-file-reader.py 
+python xls-file-reader.py 
 ls
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+python basic-async-example.py 
+python open-urls.py 
+python open-urls.py 
+clear
+python open-urls.py 
+clear
+python open-urls.py 
+clear
+python open-urls.py 
+python open-urls.py 
+python open-urls.py 
+LS
 ls
-ls
-ls -a
-git status
-exit
+python xls-file-reader.py 
+python xls-file-reader.py 
+python xls-file-reader.py 

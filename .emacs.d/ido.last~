@@ -2,31 +2,55 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/" . "quick-sort/")
+ ("c:/" . "Users/")
+ ("D:/git_projects/algorithms/" . "python/")
+ ("D:/git_projects/" . "algorithms/")
  ("c:/Users/appra/AppData/Roaming/.emacs.d/snippets/" . "simpc-mode/")
  ("c:/Users/appra/AppData/Roaming/.emacs.d/" . "snippets/")
  ("c:/Users/appra/AppData/Roaming/" . ".emacs.d/")
  ("c:/Users/appra/AppData/" . "Roaming/")
- ("c:/Users/appra/" . "AppData/")
+ ("c:/Users/appra/" . "Downloads/")
  ("c:/Users/" . "appra/")
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/" . "3sum/")
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/" . "sort/")
  ("d:/git_projects/algorithms/CPlusPlus/C++/" . "Leetcode/")
- ("d:/git_projects/algorithms/CPlusPlus/" . "C++/")
+ ("d:/git_projects/algorithms/CPlusPlus/" . "emacs-setup-files/")
  ("d:/git_projects/algorithms/" . "CPlusPlus/")
  ("d:/git_projects/" . "algorithms/")
- ("d:/" . "git_projects/")
+ ("d:/" . "emacs_settings/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "D:/"
+ "d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/"
+ "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/"
+ "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/quick-sort/"
+ "d:/git_projects/algorithms/CPlusPlus/C++/algorithms/"
+ "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/insertion-sort/"
+ "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/merge-sort/"
+ "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/selection-sort/"
+ "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/bubble-sort/"
+ "d:/emacs_settings/.emacs.d/snippets/"
+ "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/max-water-container/"
+ "c:/Users/appra/Downloads/"
+ "d:/git_projects/algorithms/python/PySolutions/read-write-csv-files/"
+ "d:/git_projects/algorithms/python/PySolutions/async-in-python/"
+ "d:/git_projects/algorithms/python/"
+ "D:/git_projects/algorithms/python/"
+ "d:/emacs_settings/.emacs.d/snippets/simpc-mode/"
+ "d:/emacs_settings/.emacs.d/snippets/python-mode/"
+ "d:/git_projects/algorithms/CPlusPlus/C++/"
+ "d:/git_projects/algorithms/python/PySolutions/python-dsa/add-two-linked-list/"
  "d:/git_projects/algorithms/python/PySolutions/python-language-basics/"
+ "d:/emacs_settings/"
+ "d:/git_projects/algorithms/python/PySolutions/"
  "c:/Users/appra/AppData/Roaming/.emacs.d/snippets/python-mode/"
  "d:/git_projects/algorithms/CPlusPlus/"
  "c:/Users/appra/AppData/Roaming/"
  "d:/git_projects/algorithms/python/PySolutions/sorting/"
- "d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/"
  "c:/Users/appra/AppData/Roaming/.emacs.d/snippets/simpc-mode/"
  "c:/Users/appra/AppData/Roaming/.emacs.d/"
- "d:/git_projects/algorithms/python/PySolutions/python-dsa/add-two-linked-list/"
  "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reorder-linked-list/"
  "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/"
  "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/"
@@ -40,50 +64,101 @@
  "d:/git_projects/algorithms/"
  "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/simple-c/"
  "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/binary_search/"
- "d:/git_projects/algorithms/CPlusPlus/C++/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "urls.txt"
+ "merge_sort.cpp"
+ "insertion-sort.cpp"
+ "bubble-sort.cpp"
+ "xls-file-reader.py"
+ "basic-async-example.py"
  "new.cpp"
  "merge-two-sorted-linked-lists.py"
  "reorder-linked-list.cpp"
  "msort-solution.cpp"
- "3sum-two-pointers.cpp"
- "3sum-hash-map.cpp"
- "3sum-brute-force.cpp"
- "merge-sort.cpp"
- "make"
- "three-int-sum.cpp"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/" (26462 10347 0 0) "regex/" "python-basics.py~" "python-basics.py" "hello.bat" "GuessNumberGame.py" ".#python-basics.py" "../" "./")
+ ("d:/emacs_settings/" (26543 29400 0 0) ".gitignore" ".git/" ".emacs.d/" ".emacs" ".#.emacs" "../" "./")
+
+ ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/" (26542 17492 0 0) "xls-file-reader.py~" "xls-file-reader.py" "urls.txt~" "urls.txt" "open-urls.py~" "open-urls.py" "files/" "allteams.txt" "allplayers.txt" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/" (26542 10562 0 0) "vi_cheat_sheet.pdf" "Notes.txt" "Kotlin/" "emacs-setup-files/" "C++/" "adb-commands.txt" ".vscode/" ".gitignore" ".git/" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/merge-sort/" (26542 8206 0 0) "merge_sort.cpp" "merger.cpp~" "merger.cpp" "m.exe" "b.exe" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/quick-sort/" (26542 10484 0 0) "quick_sort.cpp" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/" (26542 10484 0 0) "merget_sort/" "Linkedlist/" "gcd.cpp" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/" (26542 6843 0 0) "selection-sort/" "quick-sort/" "merge-sort/" "insertion-sort/" "bubble-sort/" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reorder-linked-list/" (26539 47845 0 0) "reorder-linked-list.cpp~" "reorder-linked-list.cpp" "r.exe" "../" "./")
+
+ ("d:/emacs_settings/.emacs.d/snippets/simpc-mode/" (26540 11384 0 0) "simpc-mode-hello-cpp-snippet~" "cpp-hello_world_start" "comment" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/selection-sort/" (26542 6738 0 0) "selection_sort.cpp" "b.exe" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/insertion-sort/" (26540 9741 0 0) "insertion-sort.cpp~" "insertion-sort.cpp" "b.exe" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/bubble-sort/" (26539 32564 0 0) "bubble-sort.cpp~" "bubble-sort.cpp" "b.exe" "../" "./")
+
+ ("d:/emacs_settings/.emacs.d/snippets/" (26462 3618 0 0) "simpc-mode/" "python-mode/" "../" "./")
+
+ ("d:/git_projects/algorithms/python/PySolutions/async-in-python/" (26537 18088 0 0) "basic-async-example.py~" "basic-async-example.py" "../" "./")
+
+ ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files/" (26537 3649 0 0) "teams/" "rockets.xls" "lost angeles lakers.xls" "indiana pacers.xls" "dallas mavericks.xls" "../" "./")
+
+ ("c:/Users/appra/Downloads/xls/" (26535 41552 0 0) "rockets.xls" "lost angeles lakers.xls" "indiana pacers.xls" "dallas mavericks.xls" "../" "./")
+
+ ("c:/Users/appra/Downloads/" (26535 41324 0 0) "📕 KMP for Mobile Native Developers_ The Book..pdf" "xls/" "top50DSA.pdf" "python-linkedlist/" "New folder/" "emacs-29.4-installer.exe" "desktop.ini" "apprajapati-resume.pdf" "apprajapati-resume - table.pdf" "apprajapati-resume - Python.pdf" "apprajapati-resume - android.pdf" "apprajapati-android-developer.pdf" "1737001996752.jpg" "1736785536154.pdf" "1.1 passport - ajay - front.jpg" "../" "./")
+
+ ("c:/Users/appra/" (26530 56492 0 0) "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Postman/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "miktex-console.lock" "mercurial.ini" "Local Settings/" "Links/" "Favorites/" "Downloads/" "Documents/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "ansel/" "3D Objects/" ".vscode/" ".viminfo" ".ssh/" ".skiko/" ".rustup/" ".minttyrc" ".m2/" ".lldb/" ".lesshst" ".kotlinc_history" ".jsontokotlin/" ".javacpp/" ".gradle/" ".gnupg/" ".gitconfig" ".emulator_console_auth_token" ".dbus-keyrings/" ".cargo/" ".cache/" ".bash_history" ".angular-config.json" ".android/" "../" "./")
+
+ ("c:/Users/" (26476 37391 0 0) "WsiAccount/" "Public/" "desktop.ini" "Default User/" "Default/" "appra/" "All Users/" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/emacs-setup-files/" (26430 25392 0 0) ".emacs.d/" ".emacs" "../" "./")
+
+ ("d:/git_projects/algorithms/python/PySolutions/" (26535 39048 0 0) "sorting/" "read-write-xls-files/" "python-language-basics/" "python-dsa/" "async-in-python/" ".gitignore" ".git/" "../" "./")
+
+ ("d:/git_projects/algorithms/python/PySolutions/read-write-csv-files/" (26535 39010 0 0) "xls-file-reader.py" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/max-water-container/" (26520 6035 0 0) "max-water-container.cpp~" "max-water-container.cpp" "m.exe" "../" "./")
+
+ ("D:/git_projects/algorithms/python/" (26431 25859 0 0) "PySolutions/" "../" "./")
+
+ ("D:/git_projects/algorithms/" (26431 24486 0 0) "python/" "CPlusPlus/" "../" "./")
+
+ ("D:/git_projects/" (26448 31268 0 0) "bezier-curve/" "android_projects/" "algorithms/" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/" (26519 41320 0 0) "valid-sudoku/" "valid-anagrams/" "TwoSum/" "TopKFrequentElement/" "t.exe" "swap_text.cpp" "sort/" "s.exe" "RomanToInteger/" "reverse-string.cpp" "reverse-linked-list/" "reorder-linked-list/" "r.exe" "ProductArrayExceptItselft/" "Palindrome/" "merge-two-sorted-linkedlist/" "merge-strings-alternatively/" "max-water-container/" "linked-list-cycle-detection/" "kth-largest-element/" "IsPalindrome-string/" "gcd-of-strings/" "encode-decode-strings/" "DiagonalSum/" "DiagonalDifference/" "contains-duplicate/" "binary_search/" "anagram-groups/" "AddTwoNumbers2/" "AddTwoNumbers/" "3sum/" "../" "./")
+
+ ("c:/Users/appra/AppData/Roaming/.emacs.d/" (26462 11967 0 0) "auto-save-list/" "../" "./")
+
+ ("d:/git_projects/algorithms/python/PySolutions/sorting/" (26463 26109 0 0) "merge-sort.py~" "merge-sort.py" "../" "./")
+
+ ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/" (26463 13018 0 0) "o.exe" "msort-solution.cpp~" "msort-solution.cpp" "merge-sort.cpp~" "merge-sort.cpp" "m.exe" "../" "./")
+
+ ("d:/emacs_settings/.emacs.d/snippets/python-mode/" (26463 30605 0 0) "zip" "while" "p~" "python-print~" "pf" "p" "from" "for~" "for" "enumerate~" "enumerate" "def" "class" "../" "./")
+
+ ("d:/git_projects/algorithms/python/PySolutions/python-dsa/add-two-linked-list/" (26490 15422 0 0) "merge-two-sorted-linked-lists.py~" "merge-two-sorted-linked-lists.py" "#merge-two-sorted-linked-lists.py#" "../" "./")
+
+ ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/" (26463 30245 0 0) "regex/" "python-basics.py~" "python-basics.py" "hello.bat" "GuessNumberGame.py" "../" "./")
+
+ ("d:/git_projects/algorithms/python/" (26431 25859 0 0) "PySolutions/" "../" "./")
+
+ ("c:/Users/appra/AppData/Roaming/" (26462 11349 0 0) "WTablet/" "WPersistent/" "WinRAR/" "vlc/" "Visual Studio Setup/" "Sun/" "Postman/" "pensela/" "obs-virtualcam.txt" "obs-studio/" "NVIDIA/" "npm/" "Notepad++/" "Mozilla/" "MiKTeX/" "Microsoft/" "LibreOffice/" "inkscape/" "Google/" "GitHub Desktop/" "GIMP/" "Epic Pen/" "CodeBlocks/" "Code/" "Charles/" "Blackmagic Design/" "Atlassian/" "Adobe/" ".history" ".emacs.d--/" ".emacs.d/" ".emacs--" ".emacs" "../" "./")
 
  ("c:/Users/appra/AppData/Roaming/.emacs.d/snippets/python-mode/" (26462 2742 0 0) "while" "python-print~" "pformat" "from" "for~" "for" "enumerate~" "enumerate" "def" "../" "./")
 
- ("d:/git_projects/algorithms/CPlusPlus/" (26462 2492 0 0) "vi_cheat_sheet.pdf" "Notes.txt" "Kotlin/" "emacs-setup-files/" "C++/" "adb-commands.txt" ".vscode/" ".gitignore" ".git/" "../" "./")
-
- ("c:/Users/appra/AppData/Roaming/" (26455 12058 0 0) "WTablet/" "WPersistent/" "WinRAR/" "vlc/" "Visual Studio Setup/" "Sun/" "Postman/" "pensela/" "obs-virtualcam.txt" "obs-studio/" "NVIDIA/" "npm/" "Notepad++/" "Mozilla/" "MiKTeX/" "Microsoft/" "LibreOffice/" "inkscape/" "Google/" "GitHub Desktop/" "GIMP/" "Epic Pen/" "CodeBlocks/" "Code/" "Charles/" "Blackmagic Design/" "Atlassian/" "Adobe/" ".history" ".emacs~" ".emacs.d/" ".emacs" "../" "./")
-
- ("d:/git_projects/algorithms/python/PySolutions/sorting/" (26454 7104 0 0) "merge-sort.py~" "merge-sort.py" "#merge-sort.py#" "../" "./")
-
- ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/" (26454 8692 0 0) "o.exe" "new.cpp~" "new.cpp" "msort-solution.cpp~" "msort-solution.cpp" "merge-sort.cpp~" "merge-sort.cpp" "m.exe" ".#new.cpp" "#new.cpp#" "../" "./")
-
  ("c:/Users/appra/AppData/Roaming/.emacs.d/snippets/simpc-mode/" (26454 8548 0 0) "simpc-mode-hello-cpp-snippet~" "simpc-mode-hello-cpp-snippet" "../" "./")
-
- ("c:/Users/appra/AppData/Roaming/.emacs.d/" (26454 8609 0 0) "url/" "tutorial/" "transient/" "tramp" "snippets/" "simpc-mode.el" "simpc-mode-hello-cpp-snippet~" "recentf" "rc.el" "places" "init.el~" "init.el" "ido.last~" "ido.last" "history" "eshell/" "elpa/" "eln-cache/" "auto-save-list/" "../" "./")
 
  ("c:/Users/appra/AppData/Roaming/.emacs.d/snippets/" (26454 8400 0 0) "simpc-mode/" "../" "./")
 
  ("d:/git_projects/" (26448 31268 0 0) "bezier-curve/" "android_projects/" "algorithms/" "../" "./")
-
- ("d:/git_projects/algorithms/python/PySolutions/" (26431 44638 0 0) "python-language-basics/" "python-dsa/" ".gitignore" ".git/" "../" "./")
-
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reorder-linked-list/" (26445 5078 0 0) "reorder-linked-list.cpp~" "reorder-linked-list.cpp" "r.exe" "#reorder-linked-list.cpp#" "../" "./")
-
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/" (26440 54097 0 0) "valid-sudoku/" "valid-anagrams/" "TwoSum/" "TopKFrequentElement/" "t.exe" "swap_text.cpp" "sort/" "s.exe" "RomanToInteger/" "reverse-string.cpp" "reverse-linked-list/" "reorder-linked-list/" "r.exe" "ProductArrayExceptItselft/" "Palindrome/" "merge-two-sorted-linkedlist/" "merge-strings-alternatively/" "linked-list-cycle-detection/" "kth-largest-element/" "IsPalindrome-string/" "gcd-of-strings/" "encode-decode-strings/" "DiagonalSum/" "DiagonalDifference/" "contains-duplicate/" "binary_search/" "anagram-groups/" "AddTwoNumbers2/" "AddTwoNumbers/" "3sum/" "../" "./")
 
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/linked-list-cycle-detection/" (26439 38515 0 0) "../" "./")
 
@@ -91,31 +166,19 @@
 
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/" (26439 39001 0 0) "three-int-sum.cpp" "p.exe" "3sum-two-pointers.cpp~" "3sum-two-pointers.cpp" "3sum-hash-map.cpp" "3sum-brute-force.cpp" "../" "./")
 
- ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/" (26436 64989 0 0) "quick_sort.cpp" "merget_sort/" "Linkedlist/" "gcd.cpp" "../" "./")
-
- ("d:/git_projects/algorithms/python/PySolutions/python-dsa/add-two-linked-list/" (26431 45254 0 0) "merge-two-sorted-linked-lists.py~" "merge-two-sorted-linked-lists.py" "../" "./")
-
  ("d:/git_projects/algorithms/python/PySolutions/python-dsa/" (26431 25862 0 0) "fibnonacci/" "../" "./")
 
  ("d:/git_projects/algorithms/python/PySolutions/python-dsa/fibnonacci/" (26431 25922 0 0) "fib-series.py" "../" "./")
 
  ("d:/git_projects/algorithms/" (26431 24486 0 0) "python/" "CPlusPlus/" "../" "./")
 
- ("d:/git_projects/algorithms/python/" (26431 25610 0 0) "../" "./")
-
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/" (26430 32073 0 0) "test.exe" "simple-c/" "o.exe" "NodeIml.o" "make~" "make" "headers/" "AddTwoNumbers.o" "AddTwoNumbers.cpp" "a.out" "../" "./")
 
  ("d:/manim-reducible/" (26310 17102 0 0) "__pycache__/" "swapping.py" "sorting.py" "media/" "algorithm_details.py" "../" "./")
 
- ("d:/git_projects/algorithms/CPlusPlus/emacs-setup-files/" (26430 25187 0 0) "../" "./")
-
  ("d:/git_projects/android_projects/" (26216 43564 0 0) "temporary/" "temp/" "techyourchance-courses/" "retrofit_course/" "open-source-projects/" "NowinAndroidApp/" "ndk-c++/" "multithreading-course-udemy/" "marvel-app/" "libraries/" "KotlinCoroutineswithArchitectureComponentsLiveDataViewModelLifecycle/" "kotlin-coroutines-and-flow/" "jetpack-compose/" "HiltDi/" "GithubBrowserSamplewithAndroidArchitectureComponents/" "foodyApp/" "feedapp-github/" "fdroid-projects/" "DragNDropTutorial/" "drag-and-drop-sample-master/" "custom-views/" "compose-samples-android/" "architecture-android-git-projects/" "android_animations/" "androidDBSampleApp/" "../" "./")
 
  ("c:/Users/appra/AppData/" (25684 32430 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
-
- ("c:/Users/appra/" (26429 29302 0 0) "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Postman/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{8c27c2be-eb29-11ed-a30f-9221e918c6f3}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{8c27c2be-eb29-11ed-a30f-9221e918c6f3}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{8c27c2be-eb29-11ed-a30f-9221e918c6f3}.TM.blf" "NTUSER.DAT{67faf610-f4b0-11ed-a316-009337dca618}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{67faf610-f4b0-11ed-a316-009337dca618}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{67faf610-f4b0-11ed-a316-009337dca618}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "miktex-console.lock" "mercurial.ini" "Local Settings/" "Links/" "Favorites/" "Downloads/" "Documents/" "Cookies/" "Contacts/" "Application Data/" "AppData/" "ansel/" "3D Objects/" ".vscode/" ".viminfo" ".ssh/" ".skiko/" ".rustup/" ".minttyrc" ".m2/" ".lldb/" ".lesshst" ".kotlinc_history" ".jsontokotlin/" ".javacpp/" ".gradle/" ".gnupg/" ".gitconfig" ".emulator_console_auth_token" ".emacs.d/" ".dbus-keyrings/" ".cargo/" ".cache/" ".bash_history" ".angular-config.json" ".android/" "../" "./")
-
- ("c:/Users/" (26267 15578 0 0) "Public/" "desktop.ini" "Default User/" "Default/" "appra/" "All Users/" "../" "./")
 
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/simple-c/" (26429 27687 0 0) "make" "main.o" "main.cpp~" "main.cpp" "a.out" "../" "./")
 
