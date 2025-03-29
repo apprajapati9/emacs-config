@@ -6,6 +6,7 @@
 	electric-newline-and-maybe-indent
 	indent-for-tab-command
 	keyboard-escape-quit
+	multiple-cursors-mode
 	recompile
 	))
 
@@ -13,6 +14,7 @@
       '(
 	astyle-buffer
 	duplicate-region-or-line-below
+	end-of-buffer
 	ignore
 	kill-region
 	recentf-open-files

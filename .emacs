@@ -230,3 +230,27 @@
 (require 'expand-region)
 (global-set-key (kbd "<f9>") 'er/expand-region)
 
+;;disable bell and use visual bell
+(setq ring-bell-function 'ignore)
+(setq visible-bell t)
+
+;; lsp mode
+;; (add-to-list 'auto-mode-alist '("\\.c\\'" . simpc-mode))
+;; (add-to-list 'auto-mode-alist '("\\.h\\'" . simpc-mode))
+;; (add-to-list 'auto-mode-alist '("\\.hpp\\'" . simpc-mode))
+;; (add-to-list 'auto-mode-alist '("\\.cc\\'" . simpc-mode))
+;; (add-to-list 'auto-mode-alist '("\\.cpp\\'" . simpc-mode))
+
+;; (use-package lsp-mode
+;;   :hook ((c-mode . lsp)
+;; 	 (python-mode . lsp)
+;; 	 (simpc-mode . lsp)
+;; 	 (c++-mode . lsp))
+;;   :commands lsp)
+
+;;consult mark
+(global-set-key (kbd "<f12>") 'consult-mark)
+
+;;load yasnippet
+(yas-recompile-all)
+(yas-reload-all)

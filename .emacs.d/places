@@ -1,94 +1,159 @@
 ;;; -*- coding: utf-8; mode: lisp-data -*-
-(("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/merge-sort.cpp" . 2463)
- ("d:/emacs_settings/.emacs" . 7010)
- ("d:/git_projects/algorithms/CPlusPlus/Notes.txt" . 9392)
- ("d:/"
-  (dired-filename . "d:/git_projects"))
- ("d:/git_projects/"
-  (dired-filename . "d:/git_projects/bezier-curve"))
- ("d:/emacs_settings/.emacs.d/snippets/simpc-mode/cpp-hello_world_start" . 61)
- ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/algorithms/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
+(("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position/search-insert-position.cpp"
+  . 718)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/merge-linked-list.cpp"
+  . 4295)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort"))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/quick-sort"))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/quick-sort/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/quick-sort/quick_sort.cpp"))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/quick-sort/quick_sort.cpp" . 300)
- ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/urls.txt" . 3387)
- ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/open-urls.py" . 599)
- ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/xls-file-reader.py"))
- ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/xls-file-reader.py" . 1023)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/merge-sort/merge_sort.cpp" . 971)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/selection-sort/selection_sort.cpp" . 703)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/insertion-sort/insertion-sort.cpp" . 1180)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/insertion-sort/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/insertion-sort/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/merge-sort/merger.cpp" . 687)
- ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files/teams/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files/teams/.."))
- ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/merge-sort/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/merge-sort/merge_sort.cpp"))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/selection-sort/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/selection-sort/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/bubble-sort/bubble-sort.cpp" . 623)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/bubble-sort/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/bubble-sort/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/max-water-container/max-water-container.cpp" . 2719)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/max-water-container/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/max-water-container/.."))
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position/"
+  . 178)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-arrays/merge-two-array.cpp"
+  . 1761)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-arrays/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/longest-substring/longest-sub-string-without-repeat-chars.cpp"
+  . 800)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/longest-substring/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
+ ("d:/emacs_settings/.emacs.d/snippets/simpc-mode/" . 455)
+ ("d:/emacs_settings/.emacs.d/snippets/simpc-mode/for" . 106)
+ ("d:/emacs_settings/.emacs.d/snippets/simpc-mode/comment" . 59)
+ ("d:/emacs_settings/.emacs.d/snippets/simpc-mode/cpp" . 25)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/merge-sort/merge_sort.cpp"
+  . 1166)
  ("d:/emacs_settings/.emacs.d/snippets/python-mode/while" . 82)
+ ("d:/emacs_settings/.emacs.d/snippets/python-mode/"
+  (dired-filename . "d:/emacs_settings/.emacs.d/snippets"))
  ("d:/emacs_settings/.emacs.d/snippets/"
   (dired-filename . "d:/emacs_settings/.emacs.d/snippets/simpc-mode"))
- ("d:/emacs_settings/.emacs.d/snippets/simpc-mode/"
-  (dired-filename . "d:/emacs_settings/.emacs.d/snippets/simpc-mode/cpp-hello_world_start"))
+ ("d:/emacs_settings/.emacs" . 7678)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/recursion/fibonacci-recursion.cpp"
+  . 1396)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/recursion/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/hackerrank/"
+  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/graphics/"
+  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
+ ("d:/git_projects/algorithms/CPlusPlus/Notes.txt" . 10062)
+ ("c:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/allocator.h" . 4039)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/recursion/sum-two-nums-recursion.cpp"
+  . 194)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/quick-sort/quick_sort.cpp"
+  . 87)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/quick-sort/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/merge-sort/merger.cpp"
+  . 1375)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/merge-sort.cpp"
+  . 2307)
+ ("d:/" (dired-filename . "d:/git_projects"))
+ ("d:/git_projects/" (dired-filename . "d:/git_projects/bezier-curve"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/algorithms"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/"
+  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++"))
+ ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/urls.txt"
+  . 3387)
+ ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/open-urls.py"
+  . 599)
+ ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/"
+  (dired-filename
+   . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/xls-file-reader.py"))
+ ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/xls-file-reader.py"
+  . 1023)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/selection-sort/selection_sort.cpp"
+  . 703)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/insertion-sort/insertion-sort.cpp"
+  . 1180)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/insertion-sort/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort"))
+ ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files/teams/"
+  (dired-filename
+   . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files"))
+ ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files/"
+  (dired-filename
+   . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/merge-sort/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/merge-sort/merge_sort.cpp"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/selection-sort/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/bubble-sort/bubble-sort.cpp"
+  . 623)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort/bubble-sort/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/sort"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/max-water-container/max-water-container.cpp"
+  . 2719)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/max-water-container/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
  ("d:/emacs_settings/.emacs.d/snippets/python-mode/p" . 46)
- ("c:/Users/appra/AppData/Local/Programs/Python/Python312/Lib/site-packages/pandas/core/indexes/base.py" . 121936)
+ ("c:/Users/appra/AppData/Local/Programs/Python/Python312/Lib/site-packages/pandas/core/indexes/base.py"
+  . 121936)
  ("d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files/players/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files/players/.."))
- ("d:/git_projects/algorithms/python/PySolutions/async-in-python/basic-async-example.py" . 1450)
+  (dired-filename
+   . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files/files"))
+ ("d:/git_projects/algorithms/python/PySolutions/async-in-python/basic-async-example.py"
+  . 1450)
  ("d:/git_projects/algorithms/python/PySolutions/async-in-python/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/async-in-python/.."))
+  (dired-filename . "d:/git_projects/algorithms/python/PySolutions"))
  ("d:/git_projects/algorithms/python/PySolutions/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files"))
+  (dired-filename
+   . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files"))
  ("c:/Users/appra/Downloads/"
   (dired-filename . "c:/Users/appra/Downloads/xls"))
  ("c:/Users/appra/Downloads/xls/"
-  (dired-filename . "c:/Users/appra/Downloads/xls/lost angeles lakers.xls"))
- ("c:/Users/appra/AppData/Local/Programs/Python/Python312/Lib/site-packages/pandas/compat/_optional.py" . 3916)
+  (dired-filename
+   . "c:/Users/appra/Downloads/xls/lost angeles lakers.xls"))
+ ("c:/Users/appra/AppData/Local/Programs/Python/Python312/Lib/site-packages/pandas/compat/_optional.py"
+  . 3916)
  ("d:/git_projects/algorithms/python/"
   (dired-filename . "d:/git_projects/algorithms/python/PySolutions"))
  ("d:/git_projects/algorithms/python/PySolutions/.gitignore" . 12)
- ("d:/git_projects/algorithms/python/PySolutions/python-dsa/add-two-linked-list/merge-two-sorted-linked-lists.py" . 2485)
+ ("d:/git_projects/algorithms/python/PySolutions/python-dsa/add-two-linked-list/merge-two-sorted-linked-lists.py"
+  . 2485)
  ("d:/git_projects/algorithms/python/PySolutions/python-dsa/add-two-linked-list/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/python-dsa/add-two-linked-list/.."))
+  (dired-filename
+   . "d:/git_projects/algorithms/python/PySolutions/python-dsa"))
  ("d:/git_projects/algorithms/python/PySolutions/python-dsa/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/python-dsa/.."))
- ("d:/emacs_settings/.emacs.d/snippets/python-mode/"
-  (dired-filename . "d:/emacs_settings/.emacs.d/snippets/python-mode/.."))
- ("c:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/alloc_traits.h" . 3074)
- ("d:/emacs_settings/.emacs.d/snippets/simpc-mode/comment" . 63)
- ("d:/git_projects/algorithms/python/PySolutions/sorting/merge-sort.py" . 1359)
- ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/python-basics.py" . 4048)
- ("d:/git_projects/algorithms/"
-  (dired-filename . "d:/git_projects/algorithms/.."))
+  (dired-filename . "d:/git_projects/algorithms/python/PySolutions"))
+ ("c:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/alloc_traits.h"
+  . 3074)
+ ("d:/git_projects/algorithms/python/PySolutions/sorting/merge-sort.py"
+  . 1359)
+ ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/python-basics.py"
+  . 4048)
+ ("d:/git_projects/algorithms/" (dired-filename . "d:/git_projects"))
  ("d:/emacs_settings/.gitignore" . 6)
- ("d:/emacs_settings/"
-  (dired-filename . "d:/emacs_settings/.."))
+ ("d:/emacs_settings/" (dired-filename . "d:/"))
  ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/python-language-basics/.."))
+  (dired-filename . "d:/git_projects/algorithms/python/PySolutions"))
  ("d:/git_projects/algorithms/python/PySolutions/sorting/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/sorting/merge-sort.py"))
- ("d:/emacs_settings/.emacs.d/elpa/multiple-cursors-20241201.1841/mc-mark-more.el" . 21087)
- ("d:/emacs_settings/.emacs.d/elpa/multiple-cursors-20241201.1841/multiple-cursors-core.el" . 1716)
+  (dired-filename
+   . "d:/git_projects/algorithms/python/PySolutions/sorting/merge-sort.py"))
+ ("d:/emacs_settings/.emacs.d/elpa/multiple-cursors-20241201.1841/mc-mark-more.el"
+  . 21087)
+ ("d:/emacs_settings/.emacs.d/elpa/multiple-cursors-20241201.1841/multiple-cursors-core.el"
+  . 1716)
  ("d:/emacs_settings/.emacs.d/snippets/python-mode/class" . 79)
  ("c:/Users/appra/AppData/Roaming/.emacs" . 504)
  ("d:/emacs_settings/.emacs.d/snippets/python-mode/pf" . 101)
@@ -97,44 +162,61 @@
   (dired-filename . "d:/emacs_settings/.emacs.d/snippets"))
  ("d:/emacs_settings/.emacs.d/snippets/python-mode/for" . 46)
  ("c:/Users/appra/AppData/Roaming/.emacs.d/"
-  (dired-filename . "c:/Users/appra/AppData/Roaming/.emacs.d/.."))
+  (dired-filename . "c:/Users/appra/AppData/Roaming"))
  ("c:/Users/appra/AppData/Roaming/"
   (dired-filename . "c:/Users/appra/AppData/Roaming/.emacs"))
  ("d:/git_projects/algorithms/CPlusPlus/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reorder-linked-list/reorder-linked-list.cpp" . 1960)
+  (dired-filename . "d:/git_projects/algorithms"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reorder-linked-list/reorder-linked-list.cpp"
+  . 1960)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reorder-linked-list/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reorder-linked-list/.."))
- ("c:/Program Files/Emacs/emacs-29.3_2/share/emacs/29.3/lisp/simple.el" . 457066)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/3sum-hash-map.cpp" . 564)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/3sum-two-pointers.cpp" . 428)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/three-int-sum.cpp" . 4321)
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/3sum-hash-map.cpp"
+  . 564)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/3sum-two-pointers.cpp"
+  . 428)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/three-int-sum.cpp"
+  . 4321)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/3sum-brute-force.cpp" . 1790)
- ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/msort-solution.cpp" . 347)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/make" . 189)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/merge-linked-list.cpp" . 3973)
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/3sum/3sum-brute-force.cpp"
+  . 1790)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/msort-solution.cpp"
+  . 347)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/make"
+  . 189)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reverse-linked-list/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reverse-linked-list/reverse-linked-list.cpp"))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reverse-linked-list/reverse-linked-list.cpp" . 1488)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/linked-list-cycle-detection/" . 177)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reverse-linked-list/reverse-list#2.cpp" . 222)
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reverse-linked-list/reverse-linked-list.cpp"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reverse-linked-list/reverse-linked-list.cpp"
+  . 1488)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/linked-list-cycle-detection/"
+  . 177)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reverse-linked-list/reverse-list#2.cpp"
+  . 222)
  ("d:/git_projects/algorithms/python/PySolutions/.git/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/.git/.."))
+  (dired-filename . "d:/git_projects/algorithms/python/PySolutions"))
  ("d:/git_projects/algorithms/python/PySolutions/python-dsa/fibnonacci/"
-  (dired-filename . "d:/git_projects/algorithms/python/PySolutions/python-dsa/fibnonacci/.."))
- ("d:/git_projects/algorithms/python/PySolutions/python-dsa/fibnonacci/fib-series.py" . 48)
- ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/GuessNumberGame.py" . 11)
+  (dired-filename
+   . "d:/git_projects/algorithms/python/PySolutions/python-dsa"))
+ ("d:/git_projects/algorithms/python/PySolutions/python-dsa/fibnonacci/fib-series.py"
+  . 48)
+ ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/GuessNumberGame.py"
+  . 11)
  ("d:/git_projects/algorithms/CPlusPlus/emacs-setup-files/.emacs.d/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/emacs-setup-files/.emacs.d/.."))
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/emacs-setup-files"))
  ("d:/git_projects/algorithms/CPlusPlus/emacs-setup-files/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/emacs-setup-files/.."))
+  (dired-filename . "d:/git_projects/algorithms/CPlusPlus"))
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/headers/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/headers/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/headers/NodeIml.cpp" . 1386)
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/headers/NodeIml.cpp"
+  . 1386)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/"
-  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/.."))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/AddTwoNumbers.cpp" . 310))
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/AddTwoNumbers/AddTwoNumbers.cpp"
+  . 310))
