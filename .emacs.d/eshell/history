@@ -1,128 +1,128 @@
+npm --help
+npm update
+npm help update
+npm -v
 clear
-git status
+npm install npm
+exit
 ls
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
+git init
+clear
 ls
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
+clear 
+ls
 clear
-git status
 clear
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
+npm init
+ls
+clear
+ls
+cat package.json 
+npm --save-dev typescript
+npm install --save-dev typescript
+ls
+cd node_modules/.bin/
+ls
+cd ..
+cd ..
+clear
+ls
+tsc --version
+ls
+npx tsc
+ls
+clear
+cd node_modules/
+cd ..
+cd node_modules/.bin/
+ls
+tsc --version
+cd ..
+cd ..
+ls
+tsc 
+cd ..
+cd ts/node_modules/.bin/tsc 
+cd ts/node_modules/.bin/
+ls
+tsc --init
+ls
+ls
+ls
+./node_modules/.bin/tsc --watch
+./node_modules/.bin/tsc.cmd --watch
+./node_modules/.bin/tsc main.ts --watch
+ls
+ls
+clear
+ls
+npm init
+clear
+ls
+npm add --save-dev typescript
+ls
+cd 
+ls
+ls
+cd d:
+clear
+ls
+clear
+cd node_modules/
+du -sh
+du -sh .
+du -sh .
 clear 
 clear
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-exit
-python xls-file-reader.py 
-python xls-file-reader.py 
+l
+cd typescript/bin/
 ls
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-python basic-async-example.py 
-python open-urls.py 
-python open-urls.py 
-clear
-python open-urls.py 
-clear
-python open-urls.py 
-clear
-python open-urls.py 
-python open-urls.py 
-python open-urls.py 
-LS
+cd ..
+cd ..
 ls
-python xls-file-reader.py 
-python xls-file-reader.py 
-python xls-file-reader.py 
-g++ --version
+ls
+cd ..
+ls
+clear 
+ls
+cd node_modules/
+ls
+cd typescript/
+ls
+clear 
+ls
+cd bin/
+ls
+cd ..
+cd 
+cd d:
+cd ..
+cd ..
+./node_modules/.bin/tsc --init
+./node_modules/typescript/bin/tsc --init
+./node_modules/typescript/bin/tsc --init
+clear
+ls
+./node_modules/typescript/bin/ts --init
+./node_modules/typescript/bin/tsc --init
+ls
+cd node_modules/
+ls
+./bin
+cd 
+cd d:
+clear
+ls
+cd ..
+cd node_modules/.bin/
+ls
+cd ..
+cd ..
+./node_modules/.bin/tsc --init
+./node_modules/.bin/tsc --init
+npx tsc --init
+ls
+cat tsconfig.json 
+ls
+clear
+npx tsc --watch

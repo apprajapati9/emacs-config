@@ -7,16 +7,63 @@
 (set-frame-font "Iosevka-20" nil t)
 (add-to-list 'default-frame-alist '(font . "Iosevka-20"))
 
+(tab-bar-mode 0) ;; don't want tabs
+(global-tab-line-mode 1) ;; want buffers as tab line 
+
+;;(set-frame-parameter nil 'undecorated t)   ;; Hide
+(set-frame-parameter nil 'undecorated nil) ;; Show
+
+
 (tool-bar-mode 0)
 (menu-bar-mode 0)
 (scroll-bar-mode 0)
 (show-paren-mode 1)
+(column-number-mode 1)
+
+;;tabs
+
+(custom-set-faces
+ ;; Overall tab-line area
+ '(tab-line ((t (:background "#1e1e1e" :foreground "#ffffff" :height 0.5))))
+ 
+ ;; Unselected tab
+ '(tab-line-tab ((t (:background "#2e2e2e" :foreground "#aaaaaa"
+                      ;;  :box (:line-width -1 :style pressed-button)
+                        :weight normal
+                        :height 1.5))))
+
+ ;; Currently selected tab
+ '(tab-line-tab-current ((t (:background "#007acc" :foreground "#aaaaaa"
+                        ;;        :box (:line-width -1 :style released-button)
+                                :weight normal
+                                :height 1.5))))
+
+ ;; Inactive but visible tab
+ '(tab-line-tab-inactive ((t (:background "#1e1e1e" :foreground "#777777"
+                          ;;      :box (:line-width -1 :style released-button)
+                                :height 1.5))))
+
+ ;; Tab hover highlight
+'(tab-line-highlight ((t (:background "#444444" :foreground "#ffffff"
+                              )))) ;; :underline t  --> for underline if needed
+)
+
+
+(setq tab-line-separator " ")  ;; Adds space between tabs
+
+;;tabs ends.../////
+
 
 ;; Auto completion and ido suggestions
 
 (ido-mode 1)
 (ido-everywhere 1)
 (setq ido-enable-flex-matching t)
+
+;;IDO plus
+(require 'ido-completing-read+)
+(ido-ubiquitous-mode 1)
+;;
 
 (add-to-list 'load-path "D:/emacs_settings/.emacs.d/")
 
@@ -135,6 +182,36 @@
 
 ;; move-text package ends....--------
 
+;; Move text up and down after copying
+
+(defun duplicate-line-up ()
+  "Duplicate current line and move cursor to the duplicated line above."
+  (interactive)
+  (let ((col (current-column)))
+    (save-excursion
+      (let ((line (thing-at-point 'line t)))
+        (beginning-of-line)
+        (insert line)))
+    (previous-line)
+    (move-to-column col)))
+
+(defun duplicate-line-down ()
+  "Duplicate current line and move cursor to the duplicated line below."
+  (interactive)
+  (let ((col (current-column)))
+    (save-excursion
+      (let ((line (thing-at-point 'line t)))
+        (end-of-line)
+        (newline)
+        (insert line)))
+    (next-line)
+    (move-to-column col)))
+
+(global-set-key (kbd "C-c M-<up>") 'duplicate-line-up)
+(global-set-key (kbd "C-c M-<down>") 'duplicate-line-down)
+
+;;move text up and down after copying ends...-----
+
 ;;Delete selection mode to delete word/ line if start typing after selection
 (delete-selection-mode 1)
 ;; ends...
@@ -179,6 +256,13 @@
 ;;enable dired dwim for history of moving files
 (setq dired-dwim-target t)
 (setq dired-listing-switches "-alh")
+
+(require 'dired-x)
+(setq dired-omit-files
+      (concat dired-omit-files "\\|^\\..+$"))
+(setq-default dired-dwim-target t)
+(setq dired-listing-switches "-alh")
+(setq dired-mouse-drag-files t)
 
 ;; ----- multiple cursors settings
 (require 'multiple-cursors)
@@ -254,3 +338,37 @@
 ;;load yasnippet
 (yas-recompile-all)
 (yas-reload-all)
+
+;;c3-mode
+(setq treesit-language-source-alist
+      '((c3 "https://github.com/c3lang/tree-sitter-c3")))
+
+(add-to-list 'treesit-language-source-alist
+	     '(c3 "https://github.com/c3lang/tree-sitter-c3"))
+
+(add-to-list 'load-path "D:/emacs_settings/.emacs.d/c3-ts-mode.el")
+(require 'c3-ts-mode)
+
+(add-to-list 'load-path "D:/emacs_settings/.emacs.d/tree-sitter/libtree-sitter-c3.dll")
+;;(module-load "libtree-sitter-c3.dll")
+
+(setq treesit-font-lock-level 4)
+(setq c3-ts-mode-indent-offset 1)
+
+;; Select right and left to a text
+
+(defun select-to-eol ()
+  "Select from point to end of line."
+  (interactive)
+  (set-mark (point))
+  (end-of-line))
+
+(defun select-to-bol ()
+  "Select from point to beginning of line."
+  (interactive)
+  (set-mark (point))
+  (beginning-of-line))
+
+(global-set-key (kbd "C-c C-<right>") 'select-to-eol)
+(global-set-key (kbd "C-c C-<left>") 'select-to-bol)
+

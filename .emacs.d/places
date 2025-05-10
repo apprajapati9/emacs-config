@@ -1,16 +1,45 @@
 ;;; -*- coding: utf-8; mode: lisp-data -*-
-(("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position/search-insert-position.cpp"
-  . 718)
+(("d:/git_projects/ts/index.html" . 65)
+ ("d:/git_projects/ts/index.ts" . 23)
+ ("d:/git_projects/ts/" (dired-filename . "d:/git_projects/ts/.."))
+ ("d:/emacs_settings/.emacs" . 6459)
+ ("d:/git_projects/ts/package.json" . 44)
+ ("d:/git_projects/ts/tsconfig.json" . 5427)
+ ("d:/emacs_settings/" (dired-filename . "d:/"))
+ ("d:/" (dired-filename . "d:/git_projects"))
+ ("d:/git_projects/" (dired-filename . "d:/git_projects/ts"))
+ ("d:/git_projects/algorithms/CPlusPlus/C3C/"
+  (dired-filename . "d:/git_projects/algorithms/CPlusPlus"))
+ ("d:/git_projects/algorithms/CPlusPlus/"
+  (dired-filename . "d:/git_projects/algorithms"))
+ ("d:/git_projects/algorithms/" (dired-filename . "d:/git_projects"))
+ ("d:/git_projects/algorithms/CPlusPlus/C3C/future.c3" . 136)
+ ("d:/git_projects/algorithms/CPlusPlus/C3C/c3-fut.c3" . 268)
+ ("d:/git_projects/algorithms/CPlusPlus/C3C/c3.exe" . 129)
+ ("d:/git_projects/algorithms/CPlusPlus/C3C/c3-polymorphism.c3" . 526)
+ ("d:/git_projects/algorithms/CPlusPlus/C3C/.build/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C3C/.build/obj"))
+ ("d:/git_projects/algorithms/CPlusPlus/C3C/.build/obj/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C3C/.build/obj/windows-x64"))
+ ("d:/git_projects/algorithms/CPlusPlus/C3C/.build/obj/windows-x64/"
+  . 41)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position/search-insert-position.cpp"
+  . 947)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position/"
+  (dired-filename
+   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/"
+  (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++"))
+ ("d:/git_projects/algorithms/CPlusPlus/C++/"
+  (dired-filename . "d:/git_projects/algorithms/CPlusPlus"))
+ ("d:/git_projects/algorithms/CPlusPlus/Notes.txt" . 10206)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/merge-linked-list.cpp"
   . 4295)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/"
   (dired-filename
    . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/"
-  (dired-filename
-   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position"))
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position/"
-  . 178)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-arrays/merge-two-array.cpp"
   . 1761)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-arrays/"
@@ -32,7 +61,6 @@
   (dired-filename . "d:/emacs_settings/.emacs.d/snippets"))
  ("d:/emacs_settings/.emacs.d/snippets/"
   (dired-filename . "d:/emacs_settings/.emacs.d/snippets/simpc-mode"))
- ("d:/emacs_settings/.emacs" . 7678)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/recursion/fibonacci-recursion.cpp"
   . 1396)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/recursion/"
@@ -42,10 +70,6 @@
   (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++"))
  ("d:/git_projects/algorithms/CPlusPlus/C++/graphics/"
   (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++"))
- ("d:/git_projects/algorithms/CPlusPlus/C++/"
-  (dired-filename
-   . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
- ("d:/git_projects/algorithms/CPlusPlus/Notes.txt" . 10062)
  ("c:/MinGW/lib/gcc/mingw32/6.3.0/include/c++/bits/allocator.h" . 4039)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/recursion/sum-two-nums-recursion.cpp"
   . 194)
@@ -61,8 +85,6 @@
   . 1375)
  ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/merge-sort.cpp"
   . 2307)
- ("d:/" (dired-filename . "d:/git_projects"))
- ("d:/git_projects/" (dired-filename . "d:/git_projects/bezier-curve"))
  ("d:/git_projects/algorithms/CPlusPlus/C++/algorithms/merget_sort/"
   (dired-filename
    . "d:/git_projects/algorithms/CPlusPlus/C++/algorithms"))
@@ -121,9 +143,6 @@
    . "d:/git_projects/algorithms/python/PySolutions/read-write-xls-files"))
  ("c:/Users/appra/Downloads/"
   (dired-filename . "c:/Users/appra/Downloads/xls"))
- ("c:/Users/appra/Downloads/xls/"
-  (dired-filename
-   . "c:/Users/appra/Downloads/xls/lost angeles lakers.xls"))
  ("c:/Users/appra/AppData/Local/Programs/Python/Python312/Lib/site-packages/pandas/compat/_optional.py"
   . 3916)
  ("d:/git_projects/algorithms/python/"
@@ -142,9 +161,7 @@
   . 1359)
  ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/python-basics.py"
   . 4048)
- ("d:/git_projects/algorithms/" (dired-filename . "d:/git_projects"))
  ("d:/emacs_settings/.gitignore" . 6)
- ("d:/emacs_settings/" (dired-filename . "d:/"))
  ("d:/git_projects/algorithms/python/PySolutions/python-language-basics/"
   (dired-filename . "d:/git_projects/algorithms/python/PySolutions"))
  ("d:/git_projects/algorithms/python/PySolutions/sorting/"
@@ -165,8 +182,6 @@
   (dired-filename . "c:/Users/appra/AppData/Roaming"))
  ("c:/Users/appra/AppData/Roaming/"
   (dired-filename . "c:/Users/appra/AppData/Roaming/.emacs"))
- ("d:/git_projects/algorithms/CPlusPlus/"
-  (dired-filename . "d:/git_projects/algorithms"))
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reorder-linked-list/reorder-linked-list.cpp"
   . 1960)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/reorder-linked-list/"

@@ -15,6 +15,7 @@
 	astyle-buffer
 	duplicate-region-or-line-below
 	end-of-buffer
+	eval-buffer
 	ignore
 	kill-region
 	recentf-open-files
