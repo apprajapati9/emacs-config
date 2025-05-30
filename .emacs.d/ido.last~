@@ -25,6 +25,8 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "d:/git_projects/ts/promise/"
+ "d:/git_projects/ts/callback/"
  "d:/git_projects/ts/"
  "d:/emacs_settings/"
  "d:/git_projects/algorithms/CPlusPlus/C3C/"
@@ -90,7 +92,11 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("d:/git_projects/ts/" (26655 31517 0 0) "package.json~" "package.json" "package-lock.json" "node_modules/" "index.ts~" "index.ts" ".git/" "../" "./")
+ ("d:/git_projects/ts/promise/" (26657 21730 0 0) "promise.js~" "promise.js" "../" "./")
+
+ ("d:/git_projects/ts/" (26656 11174 0 0) "tsconfig.json~" "tsconfig.json" "package.json" "package-lock.json" "num3.txt" "node_modules/" "index.ts~" "index.ts" "index.js~" "index.js" "index.html~" "index.html" "dist/" "callback/" ".git/" "../" "./")
+
+ ("d:/git_projects/ts/callback/" (26656 11169 0 0) "callback.js~" "callback.js" "../" "./")
 
  ("c:/Users/appra/Downloads/" (26651 60235 0 0) "📕 KMP for Mobile Native Developers_ The Book..pdf" "Untitled.jpg" "top50DSA.pdf" "Screenshot_20250503_233019_SnakeGame~2.jpg" "interac.pdf" "IMG-20220621-WA0000~2_103447.jpeg" "gradle.pdf" "desktop.ini" "ci-cd-pipelines.pdf" "Building Kotlin Coroutine Framework from scratch _ by Omkar Tenkale _ Medium _ Kt. Academy.pdf" "apprajapati-resume.pdf" "Apprajapati-resume - Android-developer.docx" "1746561559384.pdf" "1737001996752.jpg" "1.1 passport - ajay - front.jpg" "../" "./")
 

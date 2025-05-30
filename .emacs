@@ -1,4 +1,4 @@
-;;(setq user-emacs-directory "D:/emacs_settings/.emads.d/)
+;(setq user-emacs-directory "D:/emacs_settings/.emads.d/)
 (setq custom-file "D:/emacs_settings/.emacs.d/init.el")
 (load custom-file)
 
@@ -53,6 +53,9 @@
 
 ;;tabs ends.../////
 
+;;smart jump outside of quote
+
+;; smart jump outside of quote when press tab done... -//////////
 
 ;; Auto completion and ido suggestions
 
@@ -333,7 +336,17 @@
 ;;   :commands lsp)
 
 ;;consult mark
-(global-set-key (kbd "<f12>") 'consult-mark)
+;;(global-set-key (kbd "<f12>") 'consult-mark)
+
+(defun my/jump-to-previous-mark()
+  "jump to the previous location in the mark ring like Cu-CSpace"
+  (interactive)
+  (let ((set-mark-command-repeat-pop t))
+    (set-mark-command t)))
+
+(global-set-key (kbd "<f12>") #'my/jump-to-previous-mark)
+
+
 
 ;;load yasnippet
 (yas-recompile-all)
@@ -372,3 +385,31 @@
 (global-set-key (kbd "C-c C-<right>") 'select-to-eol)
 (global-set-key (kbd "C-c C-<left>") 'select-to-bol)
 
+;; select entire word that has space start and end
+
+;;Flycheck - SETUP works but not using it
+;; (global-flycheck-mode t)
+;; (setq flycheck-clang-include-path '("c:/MinGW/include/"))
+;; (setq exec-path (append exec-path '("c:/MinGW/bin")))
+;; (add-hook 'simpc-mode-hook #'flycheck-mode)
+;; (setq flycheck-checker 'c/c++-gcc)
+
+;; (with-eval-after-load 'flycheck
+;;   (flycheck-add-mode 'c/c++-gcc 'simpc-mode))
+
+;; (flycheck-define-checker simpc-cpp
+;;   "C++ checker Flycheck"
+;;   :command ("g++" "-fsyntax-only" source)
+;;   :error-patterns
+;;   ((error line-start (file-name) ":" line ":" column ":"
+;;    (or "error" "warning") ": " (message) line-end))
+;;   :modes (simpc-mode))
+
+;; (add-to-list 'flycheck-checkers 'simpc-cpp)
+;; (add-hook 'simpc-mode-hook (lambda () (setq flycheck-checker 'simpc-cpp)))
+
+;; (setq flycheck-display-errors-function -1)
+;; (setq flycheck-highlighting-mode 'columns)
+;; (setq flycheck-highlighting-mode 'symbol-file)
+
+;;Fly global mode check ends

@@ -19,9 +19,9 @@
  '(org-refile-use-outline-path 'file)
  '(package-selected-packages
    '(avy clang-format company consult dash dash-functional expand-region
-	 flycheck format-all gruber-darker-theme hydra
-	 ido-completing-read+ move-text multiple-cursors projectile
-	 smartparens typescript-mode which-key yasnippet))
+	 format-all gruber-darker-theme hydra ido-completing-read+
+	 move-text multiple-cursors projectile smartparens
+	 typescript-mode which-key yasnippet))
  '(safe-local-variable-values
    '((eval progn (auto-revert-mode 1) (rc/autopull-changes)
 	   (add-hook 'after-save-hook 'rc/autocommit-changes nil

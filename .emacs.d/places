@@ -1,10 +1,24 @@
 ;;; -*- coding: utf-8; mode: lisp-data -*-
-(("d:/git_projects/ts/index.html" . 65)
- ("d:/git_projects/ts/index.ts" . 23)
- ("d:/git_projects/ts/" (dired-filename . "d:/git_projects/ts/.."))
- ("d:/emacs_settings/.emacs" . 6459)
+(("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position/search-insert-position.cpp"
+  . 1042)
+ ("d:/emacs_settings/.emacs" . 11461)
+ ("d:/git_projects/ts/promise/parallel-promises.js" . 516)
+ ("d:/git_projects/ts/callback/"
+  (dired-filename . "d:/git_projects/ts/callback/callback.js"))
+ ("d:/git_projects/ts/"
+  (dired-filename . "d:/git_projects/ts/promise"))
+ ("d:/git_projects/ts/promise/"
+  (dired-filename . "d:/git_projects/ts/promise"))
+ ("d:/git_projects/ts/callback/callback.js" . 1280)
+ ("d:/git_projects/ts/promise/promise.js" . 2291)
+ ("d:/git_projects/ts/index.html" . 66)
+ ("d:/git_projects/ts/tsconfig.json" . 2821)
+ ("d:/git_projects/ts/index.js" . 467)
+ ("d:/git_projects/ts/index.ts" . 476)
  ("d:/git_projects/ts/package.json" . 44)
- ("d:/git_projects/ts/tsconfig.json" . 5427)
+ ("d:/git_projects/algorithms/CPlusPlus/C++/graphics/drawCircle.cpp"
+  . 428)
+ ("d:/git_projects/algorithms/CPlusPlus/Notes.txt" . 10422)
  ("d:/emacs_settings/" (dired-filename . "d:/"))
  ("d:/" (dired-filename . "d:/git_projects"))
  ("d:/git_projects/" (dired-filename . "d:/git_projects/ts"))
@@ -25,8 +39,6 @@
    . "d:/git_projects/algorithms/CPlusPlus/C3C/.build/obj/windows-x64"))
  ("d:/git_projects/algorithms/CPlusPlus/C3C/.build/obj/windows-x64/"
   . 41)
- ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position/search-insert-position.cpp"
-  . 947)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/search-insert-position/"
   (dired-filename
    . "d:/git_projects/algorithms/CPlusPlus/C++/Leetcode"))
@@ -34,7 +46,6 @@
   (dired-filename . "d:/git_projects/algorithms/CPlusPlus/C++"))
  ("d:/git_projects/algorithms/CPlusPlus/C++/"
   (dired-filename . "d:/git_projects/algorithms/CPlusPlus"))
- ("d:/git_projects/algorithms/CPlusPlus/Notes.txt" . 10206)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/merge-linked-list.cpp"
   . 4295)
  ("d:/git_projects/algorithms/CPlusPlus/C++/Leetcode/merge-two-sorted-linkedlist/"

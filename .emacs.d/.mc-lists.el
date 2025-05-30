@@ -18,5 +18,8 @@
 	eval-buffer
 	ignore
 	kill-region
+	overwrite-mode
 	recentf-open-files
+	tab-line-switch-to-next-tab
+	tab-line-switch-to-prev-tab
 	))
